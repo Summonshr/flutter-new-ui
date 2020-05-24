@@ -1,6 +1,25 @@
-# demo
+# med
 
-A new Flutter project.
+News UI made with flutter
+
+# Demo
+
+Youtube: [View on YouTube](https://www.youtube.com/watch?v=GW0-nxV65Xg)
+
+[![View on Youtube](http://img.youtube.com/vi/GW0-nxV65Xg/0.jpg)](http://www.youtube.com/watch?v=GW0-nxV65Xg)
+
+
+# Design
+
+Source: [Dribble](https://cdn.dribbble.com/users/2530474/screenshots/6167490/news_dark_4x.png?compress=1&resize=800x600)
+
+Contact Me Summonshr@gmail.com
+
+![Screenshot 1](/Screenshot-1.png?raw=true)
+
+![Screenshot 2](/Screenshot-2.png?raw=true)
+
+
 
 ## Getting Started
 

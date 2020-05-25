@@ -119,6 +119,9 @@ class PageOne extends StatelessWidget {
                         color: Colors.white,
                         child: SingleChildScrollView(
                           child: Column(children: <Widget>[
+                            SizedBox(
+                              height: 5.0,
+                            ),
                             News(
                                 image: './images/image-5.jpg',
                                 title:

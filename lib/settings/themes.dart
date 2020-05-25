@@ -33,5 +33,5 @@ ThemeData themeData = ThemeData(
             color: Colors.grey.shade400),
         headline2: TextStyle(
             fontWeight: FontWeight.w400,
-            fontSize: 20.0,
+            fontSize: 18.0,
             color: Colors.grey.shade800)));

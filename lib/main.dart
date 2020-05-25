@@ -12,7 +12,7 @@ class App extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
         routes: {'/': (context) => PageOne(), '/single': (context) => Single()},
-        initialRoute: '/single',
+        initialRoute: '/',
         theme: themeData);
   }
 }
